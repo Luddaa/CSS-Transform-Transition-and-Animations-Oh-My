@@ -1,3 +1,7 @@
 main {
+transform:rotate(-15deg) ;
 
+}
+.info{
+transform:skew(-15deg);
 }
